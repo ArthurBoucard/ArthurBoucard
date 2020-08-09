@@ -34,11 +34,12 @@
 <img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
 
 
-
 <!--
 **ArthurBoucard/ArthurBoucard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=ArthurBoucard)](https://github.com/anuraghazra/github-readme-stats)
+
+![Screenshot](File in repo location)
 
 Here are some ideas to get you started:
 
