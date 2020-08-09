@@ -27,8 +27,8 @@
 ### Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://lh3.googleusercontent.com/proxy/ecGqTEkyPbKP93spu5OaY4hNncicvOo3ToL4jRx1VM-dTP0oG891jWZe8j2BXncYVmmUJ2bOzissTjk6IP1fTgIr8W9m_QdaCXU1PRRmKy8Ayvov9f0" />
-<img align="left" alt="Unity" width="26px" src="https://lh3.googleusercontent.com/proxy/5MbkZiC15V8IljqzRAXg3GMpv5gS2GRyUCFPqoHMvjcYHZ5l9PTMWZu0t0arRPQGikQRIFc8bGblza6Dk6OidBzxnKSHR69SY_M0Ni_Hj5JLWFWyi1M" />
+<img align="left" alt="Git" width="26px" src="https://img2.freepng.fr/20180425/bxe/kisspng-github-repository-version-control-source-code-network-node-5ae13f80e99f63.3541394415247112969569.jpg" />
+<img align="left" alt="Unity" width="26px" src="https://www.pinclipart.com/picdir/big/218-2186770_tip-create-a-rotating-sun-alex-dunn-graphic.png" />
 <img align="left" alt="Flask" width="26px" src="https://www.ambient-it.net/wp-content/uploads/2019/12/Logo-Flask-200x175.png" />
 <img align="left" alt="Flutter" width="26px" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" />
 <img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
