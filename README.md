@@ -27,7 +27,7 @@
 ### Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://img2.freepng.fr/20180425/bxe/kisspng-github-repository-version-control-source-code-network-node-5ae13f80e99f63.3541394415247112969569.jpg" />
+<img align="left" alt="Git" width="26px" src="https://lh3.googleusercontent.com/proxy/tf2EmDf6G92Mb-mdw1xIz0J7giMpv5ya1GaDlSzjFfWvtBGDaNehRrHMuG9z3vlojauopCdbo2DpApnGDI7Fvlmc92Qt4z3gWTvwJzr42twnvXdpXQw" />
 <img align="left" alt="Unity" width="26px" src="https://www.pinclipart.com/picdir/big/218-2186770_tip-create-a-rotating-sun-alex-dunn-graphic.png" />
 <img align="left" alt="Flask" width="26px" src="https://www.ambient-it.net/wp-content/uploads/2019/12/Logo-Flask-200x175.png" />
 <img align="left" alt="Flutter" width="26px" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" />
