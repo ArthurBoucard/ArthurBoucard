@@ -27,7 +27,7 @@
 ### Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://mpng.subpng.com/20190130/xpp/kisspng-git-repository-merge-commit-computer-file-git-blamer-visual-studio-marketplace-5c52281430d399.5889562415488880842.jpg" />
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" />
 <img align="left" alt="Flask" width="26px" src="https://www.ambient-it.net/wp-content/uploads/2019/12/Logo-Flask-200x175.png" />
 <img align="left" alt="Flutter" width="26px" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" />
 <img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
