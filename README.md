@@ -32,6 +32,13 @@
 <img align="left" alt="Flutter" width="26px" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" />
 <img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
 
+<br>
+
+### Social :
+
+[<img align="left" alt="LinkedIn" width="26px" src="https://salon-ctco.com/wp-content/uploads/2018/09/Logo-LinkedIn.png">](https://www.linkedin.com/in/arthur-boucard-786745198/)
+
+
 
 <!--
 **ArthurBoucard/ArthurBoucard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
