@@ -2,10 +2,8 @@
 
 <b> Just a junior developper showing is work </b> 😄
 
-- <img width="20px" src="https://newsroom.ionis-group.com/wp-content/uploads/2018/12/epitech-logo-signature-quadri.png"/> I'm currently studying at Epitech Lyon
+- <img width="20px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/epietch_logo.png"/> I'm currently studying at Epitech Lyon
 - 🔭 I’m currently working on improving my coding skills
-- 🌱 I’m currently learning how to make a website from scratch
-- 🤔 I’m looking for help with web frameworks
 
 <br>
 
@@ -13,30 +11,30 @@
 
 ### Languages :
 
-<img align="left" alt="C" width="26px" src="https://www.apollo-formation.com/wp-content/uploads/C-250x250.png" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/480px-Python-logo-notext.svg.png" />
-<img align="left" alt="Dart" width="26px" src="https://www.inmanencia.org/wp-content/uploads/2019/11/logo_dart_1080px_clr-min.png" />
-<img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MySQL" width="26px" src="https://framalibre.org/sites/default/files/leslogos/2000px-Mysql-dolphin-square.svg_.png" />
+<img align="left" alt="C" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c.png" />
+<img align="left" alt="C#" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c%23.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/python.png" />
+<img align="left" alt="Dart" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/dart.png" />
+<img align="left" alt="Bash" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/bash.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/html5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/css3.png" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/mysql.png" />
 
 <br>
 
 ### Tools :
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" />
-<img align="left" alt="Flask" width="26px" src="https://www.ambient-it.net/wp-content/uploads/2019/12/Logo-Flask-200x175.png" />
-<img align="left" alt="Flutter" width="26px" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" />
-<img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/vscode.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/git.png" />
+<img align="left" alt="Flask" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/flask.png" />
+<img align="left" alt="Flutter" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/flutter.png" />
+<img align="left" alt="Android" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/android.png" />
 
 <br>
 
 ### Social :
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://salon-ctco.com/wp-content/uploads/2018/09/Logo-LinkedIn.png">](https://www.linkedin.com/in/arthur-boucard-786745198/)
+[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/linkedin.png">](https://www.linkedin.com/in/arthur-boucard-786745198/)
 
 
 
