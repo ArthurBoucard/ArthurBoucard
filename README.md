@@ -12,13 +12,12 @@
 ### Languages :
 
 <img align="left" alt="C" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c.png" />
-<img align="left" alt="C#" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c%23.png" />
+<img align="left" alt="C++" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c%2B%2B.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/python.png" />
-<img align="left" alt="Dart" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/dart.png" />
-<img align="left" alt="Bash" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/bash.png" />
+<img align="left" alt="Haskell" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/haskell.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/html5.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/css3.png" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/mysql.png" />
+<img align="left" alt="Bash" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/bash.png" />
 
 <br>
 
@@ -26,9 +25,8 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/vscode.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/git.png" />
-<img align="left" alt="Flask" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/flask.png" />
+<img align="left" alt="GithubActions" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/github_actions.png" />
 <img align="left" alt="Flutter" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/flutter.png" />
-<img align="left" alt="Android" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/android.png" />
 
 <br>
 
