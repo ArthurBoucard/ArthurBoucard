@@ -14,7 +14,7 @@
 <img align="left" alt="C" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c%2B%2B.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/python.png" />
-<img align="left" alt="Haskell" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/haskell.png" />
+<img align="left" alt="Haskell" width="38px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/haskell.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/html5.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/css3.png" />
 <img align="left" alt="Bash" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/bash.png" />
