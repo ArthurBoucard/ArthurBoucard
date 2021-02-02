@@ -17,6 +17,7 @@
 <img align="left" alt="Haskell" width="38px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/haskell.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/html5.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/css3.png" />
+<img align="left" alt="dart" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/dart.png" />
 <img align="left" alt="Bash" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/bash.png" />
 
 <br>
