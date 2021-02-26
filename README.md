@@ -9,6 +9,8 @@
 
 [![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBoucard&layout=compact&title_color=0dff00&text_color=fff&bg_color=141414)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBoucard&show_icons=true&include_all_commits=true&count_private=true&layout=compact&title_color=0dff00&text_color=fff&bg_color=141414)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages :
 
 <img align="left" alt="C" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c.png" />
