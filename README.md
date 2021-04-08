@@ -11,17 +11,6 @@
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBoucard&disable_animations=true&show_icons=true&include_all_commits=true&count_private=true&title_color=0dff00&text_color=fff&bg_color=141414)](https://github.com/anuraghazra/github-readme-stats)
 [![Arthur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bouboule&layout=compact&title_color=0dff00&text_color=fff&bg_color=141414)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages :
-
-<img align="left" alt="C" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c%2B%2B.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/html5.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/css3.png" />
-<img align="left" alt="Bash" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/bash.png" />
-
-<br>
-
 ### Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/vscode.png" />
@@ -50,4 +39,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
+### Languages :
+
+<img align="left" alt="C" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c.png" />
+<img align="left" alt="C++" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/c%2B%2B.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/python.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/html5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/css3.png" />
+<img align="left" alt="Bash" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/bash.png" />
+
+<br>
 -->
