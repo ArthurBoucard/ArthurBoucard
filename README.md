@@ -3,7 +3,7 @@
 <b> Just a junior developper showing his work </b> 😄
 
 - <img width="20px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/epietch_logo.png"/> I'm currently studying at Epitech Lyon
-- 🔭 I’m currently working on improving my coding skills
+- 🔭 I’m working on improving my coding skills
 
 <br>
 
