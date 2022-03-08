@@ -21,7 +21,7 @@
 
 ### Social :
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/linkedin.png">](https://www.linkedin.com/in/arthur-boucard-786745198/)
+[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/linkedin.png">](https://www.linkedin.com/in/arthur-boucard-786745198/) test
 
 
 
