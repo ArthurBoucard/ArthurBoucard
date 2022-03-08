@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <b> Just a junior developper showing his work </b> 😄
 
