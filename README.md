@@ -21,7 +21,7 @@
 
 ### Social :
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/linkedin.png">](https://www.linkedin.com/in/arthur-boucard-786745198/) test
+[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/linkedin.png">](https://www.linkedin.com/in/arthur-boucard-786745198/)
 
 
 
@@ -30,7 +30,7 @@
 
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=ArthurBoucard)](https://github.com/anuraghazra/github-readme-stats)
 
-![Screenshot](File in repo location) test
+![Screenshot](File in repo location) 
 
 Here are some ideas to get you started:
 
