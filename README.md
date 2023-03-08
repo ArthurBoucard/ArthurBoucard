@@ -7,15 +7,9 @@
 
 <br>
 
-[![Most used language](https://github-readme-stats-gamma-fawn.vercel.app/api/top-langs/?username=ArthurBoucard&layout=compact&langs_count=8&title_color=0dff00&text_color=fff&bg_color=141414&exclude_repo=GameJam-Tetris_City,RUC_Data-and-Things)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used language](https://github-readme-stats-gamma-fawn.vercel.app/api/top-langs/?username=ArthurBoucard&layout=compact&langs_count=8&title_color=0dff00&text_color=fff&bg_color=141414&exclude_repo=GameJam-Tetris_City,RUC_Data-and-Things,RUC_Physical-Computing-VR)](https://github.com/anuraghazra/github-readme-stats)
 [![Arthur's GitHub stats](https://github-readme-stats-gamma-fawn.vercel.app/api?username=ArthurBoucard&disable_animations=true&show_icons=true&include_all_commits=true&count_private=true&title_color=0dff00&text_color=fff&bg_color=141414)](https://github.com/anuraghazra/github-readme-stats)
 [![Arthur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bouboule&layout=compact&title_color=0dff00&text_color=fff&bg_color=141414)](https://github.com/anuraghazra/github-readme-stats)
-
-### Tools :
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/vscode.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/git.png" />
-<img align="left" alt="GithubActions" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/github_actions.png" />
 
 <br>
 
@@ -50,5 +44,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Bash" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/bash.png" />
 
 <br>
-test2
+
+### Tools :
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/vscode.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/git.png" />
+<img align="left" alt="GithubActions" width="26px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/github_actions.png" />
 -->
