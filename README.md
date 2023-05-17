@@ -2,6 +2,8 @@
 
 <b> Just a junior developper showing his work </b> 😄
 
+[![wakatime](https://wakatime.com/badge/user/5e661680-75fe-4363-a000-151d595ee22d.svg)](https://wakatime.com/@5e661680-75fe-4363-a000-151d595ee22d)
+
 - <img width="20px" src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/epietch_logo.png"/> I'm currently studying at Epitech Lyon
 - 🔭 I’m working on improving my coding skills
 
