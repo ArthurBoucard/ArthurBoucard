@@ -56,7 +56,7 @@
 
 <!-- <h2>Socials :</h2> add animated emoji  -->
 
-<img align="right" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NiYWliMTVxbG1sOXZ5Z205N3pwNndveTRkc3dkaWI5OHhndHVqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp"  />
+<img align="right" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NiYWliMTVxbG1sOXZ5Z205N3pwNndveTRkc3dkaWI5OHhndHVqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp"  />
 
 <a href="https://www.linkedin.com/in/arthurboucard" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" height="40" /></a>
 <a href="https://www.malt.fr/profile/arthurboucard" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/malt-logo?style=for-the-badge&logo=malt&logoColor=white&color=%23fc5757" alt="malt" height="40" /></a>
