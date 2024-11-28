@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Arthur Boucard and I'm a Freelance Backend Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+<h1 align="left">Hello, I'm Arthur Boucard a Freelance Backend Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <h3>I am specialised in </h3>
 <h2>
   <ul>
