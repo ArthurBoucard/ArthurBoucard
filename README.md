@@ -20,9 +20,18 @@
 ---
 
 <h3>Here are some of my side projects <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="29px"></h3>
-
+<br>
 <!-- <img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJxMHc4ZXgxdHBza3Z6cGV4dDhqdHVjNTdvZDlpYThuaWg4MjUwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.webp"  /> -->
 
+<span>
+  <a href="https://arthurboucard.com/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Farthurboucard.com%2F" />
+  </a>
+  <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://arthurboucard.com/" target="_blank">
+    <b>Portfolio 🌐</b>
+  </a>
+</span>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://arthurboucard.com/" target="_blank">
     <img src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/portfolio.png" alt="portfolio" width="120" />
@@ -32,6 +41,15 @@
   </a>
 </div>
 
+<span>
+  <a href="https://infinite-typing-monkey.arthurboucard.com/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Finfinite-typing-monkey.arthurboucard.com%2F">
+  </a>
+  <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://infinite-typing-monkey.arthurboucard.com/" target="_blank">
+    <b>Infinite Typing Monkey 🌐</b>
+  </a>
+</span>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://infinite-typing-monkey.arthurboucard.com/" target="_blank">
     <img src="https://github.com/ArthurBoucard/Infinite-Typing-Monkey/blob/master/front/src/assets/monkey.gif" alt="portfolio" width="120" />
@@ -41,6 +59,15 @@
   </a>
 </div>
 
+<span>
+  <a href="https://thurii.fr/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fthurii.fr%2F">
+  </a>
+  <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://thurii.fr/" target="_blank">
+    <b>Thurii 🌐</b>
+  </a>
+</span>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://thurii.fr/" target="_blank">
     <img src="https://github.com/ArthurBoucard/ArthurBoucard/blob/master/src/thurii_logo.png" alt="thurii logo" width="120" />
